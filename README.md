@@ -1,5 +1,4 @@
 
-
 ### Render the book (RStudio)
 
 - [ ] 1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to the most recent version.
