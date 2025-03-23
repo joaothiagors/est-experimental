@@ -1,7 +1,3 @@
-toda-história-tem-um-começo
-as-histórias-precisam-começar-de-algum-ponto
-partindo-do-princípio
-fases-importantes
 apresentação
 introdução-à-estatística-experimental
 planejamento-de-experimentos
