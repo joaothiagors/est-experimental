@@ -1,9 +1,11 @@
 --- 
-title: "Modelo de Livro"
-author: "João Thiago Rodrigues de Sousa e colabs"
+title: "Estatística Experimental"
+author: "prof. João Thiago Rodrigues de Sousa"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Toda história tem um começo
+# Apresentação
+
+Este é um material de cunho didático, destinado a apoiar a disciplina de estatistica experimental em nível de graduação para os cursos de Ciências Agrárias.
 
