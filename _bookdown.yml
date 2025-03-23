@@ -1,8 +1,8 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/joaothiagors/modelo-de-livro/edit/main/%s
-view: https://github.com/joaothiagors/modelo-de-livro/blob/main/%s
+edit: https://github.com/joaothiagors/est-experimental/edit/main/%s
+view: https://github.com/joaothiagors/est-experimental/blob/main/%s
 language:
   ui:
     chapter_name: "Chapter "
